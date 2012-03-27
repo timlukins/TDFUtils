@@ -1,0 +1,12 @@
+TDFUtils
+========
+
+AKA: 3-D File Utilities
+
+A (somewhat) historic selection of C programs to manipulate various 3D file data.
+
+* tiff2a.c - Convert floating point TIFF to ASCII "pointcloud"
+* z2tiff.c - Convert Aqusis/Renderman Z fiel to floating point TIFF
+* a2c3d.c  - Convert ASCII "pointslist" to C3D motion-capture file.
+
+Written way back in 2004. Put here for others to use according to the accompanying MIT License. 
